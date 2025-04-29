@@ -16,3 +16,13 @@ void ConsoleUtil::GotoXY(int x, int y) // x,y 좌표로 커서를 이동
     static COORD pos = { x,y };
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
+
+void SoundUtil::PlayTitleSound1(LPCWSTR filename)
+{
+    PlaySound(filename, NULL, SND_SYNC);
+}
+
+void SoundUtil::PlayBGM1(LPCWSTR filename)
+{
+    PlaySound(filename, NULL, SND_ASYNC);
+}

@@ -1,2 +1,110 @@
-﻿  Runner.cpp
-  Ch11.vcxproj -> C:\Users\Administrator\Desktop\cppProject2025\Projectcpp\x64\Debug\Ch11.exe
+﻿  main.cpp
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(9,1): error C2236: 예기치 않은 토큰 'class'입니다. ';'이 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(10,1): error C2059: 구문 오류: '{'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(10,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(10,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(27,23): error C2504: 'Runner2': 기본 클래스를 정의하지 않았습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(40,7): error C3668: 'Player::Run': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(32,13): error C2614: 'Player': 멤버 초기화가 잘못되었습니다. 'Runner2'이(가) 기본 또는 멤버가 아닙니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(34,3): error C2065: 'symbol': 선언되지 않은 식별자입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(37,25): error C2614: 'Player': 멤버 초기화가 잘못되었습니다. 'Runner2'이(가) 기본 또는 멤버가 아닙니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(44,22): error C2504: 'Runner2': 기본 클래스를 정의하지 않았습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(36,2): error C2065: 'Runner2': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(36,11): error C2065: 'runA': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(37,2): error C2065: 'Runner2': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(37,11): error C2065: 'runB': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(37,22): error C2061: 구문 오류: 식별자 'Runner2'
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(38,2): error C2065: 'Runner2': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(38,11): error C2065: 'runC': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(38,22): error C2061: 구문 오류: 식별자 'Runner2'
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(39,2): error C2065: 'Runner2': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(39,11): error C2065: 'runD': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(39,22): error C2061: 구문 오류: 식별자 'Runner2'
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(43,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(51,3): error C2065: 'runA': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(52,3): error C2065: 'runB': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(53,3): error C2065: 'runC': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(54,3): error C2065: 'runD': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(57,7): error C2065: 'runA': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(58,7): error C2065: 'runB': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(59,7): error C2065: 'runC': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(60,7): error C2065: 'runD': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(67,6): error C2065: 'runA': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(72,6): error C2065: 'runB': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(77,6): error C2065: 'runC': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\main.cpp(82,6): error C2065: 'runD': 선언되지 않은 식별자입니다.
+  Runner2.cpp
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(9,1): error C2236: 예기치 않은 토큰 'class'입니다. ';'이 없습니다.
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(10,1): error C2059: 구문 오류: '{'
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(10,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(10,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(27,23): error C2504: 'Runner2': 기본 클래스를 정의하지 않았습니다.
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(40,7): error C3668: 'Player::Run': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(32,13): error C2614: 'Player': 멤버 초기화가 잘못되었습니다. 'Runner2'이(가) 기본 또는 멤버가 아닙니다.
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(34,3): error C2065: 'symbol': 선언되지 않은 식별자입니다.
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(37,25): error C2614: 'Player': 멤버 초기화가 잘못되었습니다. 'Runner2'이(가) 기본 또는 멤버가 아닙니다.
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.h(44,22): error C2504: 'Runner2': 기본 클래스를 정의하지 않았습니다.
+  (소스 파일 'Runner2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(3,6): error C2653: 'Runner2': 클래스 또는 네임스페이스 이름이 아닙니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(6,2): error C2065: 'run': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(6,34): error C2065: 'maxSpeed': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(8,22): error C2065: 'run': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(12,10): error C2065: 'symbol': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(15,6): error C2653: 'Runner2': 클래스 또는 네임스페이스 이름이 아닙니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(17,6): error C2065: 'run': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(19,3): error C2065: 'isEnd': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(23,3): error C2065: 'isEnd': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(26,9): error C2065: 'isEnd': 선언되지 않은 식별자입니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Runner2.cpp(31,2): error C2653: 'Runner2': 클래스 또는 네임스페이스 이름이 아닙니다.
+  Utility.cpp
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Utility.cpp(4,1): error C2628: 'SoundUtil' 다음에 'int'이(가) 올 수 없습니다. ';'이 있어야 합니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Utility.cpp(5,1): error C2556: 'SoundUtil RandomUtil::GetRandomInt(int)': 오버로드된 함수가 'int RandomUtil::GetRandomInt(int)'과(와) 반환 형식만 다릅니다.
+  C:\Users\Administrator\Desktop\cppProject2025\Ch11\Utility.h(12,13):
+  'RandomUtil::GetRandomInt' 선언을 참조하십시오.
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Utility.cpp(4,17): error C2371: 'RandomUtil::GetRandomInt': 재정의. 기본 형식이 다릅니다.
+  C:\Users\Administrator\Desktop\cppProject2025\Ch11\Utility.h(12,13):
+  'RandomUtil::GetRandomInt' 선언을 참조하십시오.
+  
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Utility.cpp(16,26): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\Administrator\Desktop\cppProject2025\Ch11\Utility.cpp(16,28): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...

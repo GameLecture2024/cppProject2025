@@ -23,17 +23,20 @@ void ClassDefaultInfo()
 *   ------------------------
 */
 
-#include "Runner.h"
+#include "Runner2.h"
 int main()
 {
 	ClassDefaultInfo();
 	system("cls");
 	std::cout << "달리기 게임 코드" << std::endl;	// Game Title
 
-	Runner* runA = new Player();
-	Runner* runB = new Runner("B");
-	Runner* runC = new Runner();
-	Runner* runD = new Runner("D");
+	// 사운드를 출력해주는 기능을 작성
+    SoundUtil::PlayBGM1(_T("sound.wav"));
+
+	Runner2* runA = new Player();
+	Runner2* runB = new Runner2("B");
+	Runner2* runC = new Runner2();
+	Runner2* runD = new Runner2("D");
 	
 	string line = "===============================================================================";
 

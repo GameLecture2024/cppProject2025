@@ -128,13 +128,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GameManager.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Runner2.cpp" />
+    <ClCompile Include="ShopItem.cpp" />
     <ClCompile Include="SoundUtil.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Common.h" />
+    <ClInclude Include="GameManager.h" />
     <ClInclude Include="Runner2.h" />
+    <ClInclude Include="ShopItem.h" />
     <ClInclude Include="SoundUtil.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

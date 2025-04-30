@@ -18,3 +18,9 @@ int RandomUtil::GetRandomInt2(int range)
 
 	return dist(gen);
 }
+
+void ConsoleUtil::GoToXy(int x, int y)
+{
+	static COORD pos = { x,y };
+	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
+}

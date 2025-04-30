@@ -22,3 +22,10 @@ public:
 
 };
 
+class ConsoleUtil
+{
+public:
+	static void GoToXy(int x, int y);
+};
+
+

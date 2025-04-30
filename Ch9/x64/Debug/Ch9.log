@@ -1,8 +1,4 @@
-﻿  GameSynergy.cpp
-  Hero.cpp
-  main.cpp
-  Note.cpp
-  Synergy.cpp
+﻿  Synergy.cpp
   Weapon.cpp
 C:\Users\Administrator\Desktop\cppProject2025\Ch9\Synergy.cpp(5,7): error C2039: 'cout': 'std'의 멤버가 아닙니다.
   C:\Users\Administrator\Desktop\cppProject2025\Ch9\predefined C++ types (compiler internal)(348,11):

@@ -1,0 +1,5 @@
+1 Sword 100 
+2 Shield 200
+3 tion 300
+4 Scarp 400
+5 nSteel 500 

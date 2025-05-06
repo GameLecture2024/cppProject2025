@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch12", "..\Ch12\Ch12.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataHandleProject", "..\DataHandleProject\DataHandleProject.vcxproj", "{C3BD9325-6EEF-4945-9B40-1A9F97FECDA2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StoryTelling", "..\StoryTelling\StoryTelling.vcxproj", "{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -179,6 +181,14 @@ Global
 		{C3BD9325-6EEF-4945-9B40-1A9F97FECDA2}.Release|x64.Build.0 = Release|x64
 		{C3BD9325-6EEF-4945-9B40-1A9F97FECDA2}.Release|x86.ActiveCfg = Release|Win32
 		{C3BD9325-6EEF-4945-9B40-1A9F97FECDA2}.Release|x86.Build.0 = Release|Win32
+		{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}.Debug|x64.ActiveCfg = Debug|x64
+		{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}.Debug|x64.Build.0 = Debug|x64
+		{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}.Debug|x86.ActiveCfg = Debug|Win32
+		{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}.Debug|x86.Build.0 = Debug|Win32
+		{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}.Release|x64.ActiveCfg = Release|x64
+		{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}.Release|x64.Build.0 = Release|x64
+		{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}.Release|x86.ActiveCfg = Release|Win32
+		{43A47506-78D9-49D9-8F6A-D01B0FEF7A15}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,4 @@
 ﻿  Synergy.cpp
-  Weapon.cpp
 C:\Users\Administrator\Desktop\cppProject2025\Ch9\Synergy.cpp(5,7): error C2039: 'cout': 'std'의 멤버가 아닙니다.
   C:\Users\Administrator\Desktop\cppProject2025\Ch9\predefined C++ types (compiler internal)(348,11):
   'std' 선언을 참조하십시오.
@@ -10,4 +9,3 @@ C:\Users\Administrator\Desktop\cppProject2025\Ch9\Synergy.cpp(5,83): error C2039
   'std' 선언을 참조하십시오.
   
 C:\Users\Administrator\Desktop\cppProject2025\Ch9\Synergy.cpp(5,83): error C2065: 'endl': 선언되지 않은 식별자입니다.
-  코드를 생성하고 있습니다...
